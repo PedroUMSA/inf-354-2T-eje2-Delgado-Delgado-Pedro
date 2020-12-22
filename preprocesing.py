@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 21 23:37:09 2020
 
-@author: Roger
-"""
 import pandas as pd
 import numpy as np
 from sklearn.impute import SimpleImputer
